@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/mocybertest/SQLProject)
+  - [SQL Security Analysis Project](https://github.com/mocybertest/SQLProject)
     
 <h2>📺 Certifications</h2>
 
